@@ -75,3 +75,19 @@ font-size: 4rem;}
   align-items: center;
 }
 .our-features{margin-left: 20px;}
+/*Fact related style*/
+.fact{
+  border:1px solid green;
+  width: auto;
+  height: auto;
+  margin:0 20px;
+  text-align: center;
+  padding: 45px 36px 59px 35px;
+  
+}
+.facts-container{
+  display: grid;
+  grid-template-columns: repeat(4,1fr);
+  
+  
+}
