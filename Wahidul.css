@@ -65,3 +65,13 @@ font-size: 4rem;}
   .navbar, .nav-links{flex-direction: column;}
   
 }
+/*team work*/
+.team-img-container{
+  display: grid;
+  grid-template-columns: repeat(2,auto);
+  gap: 20px;
+}
+.teams{
+  align-items: center;
+}
+.our-features{margin-left: 20px;}
